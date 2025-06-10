@@ -1,0 +1,7 @@
+# Example environment variables for the Express.js Product API
+
+# Port number for the server (optional, defaults to 3000 if not set)
+PORT=3000
+
+# API key or token for authentication middleware
+API_KEY=secrettoken
